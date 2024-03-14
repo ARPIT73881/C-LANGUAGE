@@ -9,5 +9,6 @@ int main(int argc, char const *argv[])
   printf("\nEnter the breadth of rectangle = ");
   scanf("%f", &breadth);
   printf("\n\nThe area of rectangle = %0.2f", length * breadth);
+
   return 0;
 }
