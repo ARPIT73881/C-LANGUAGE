@@ -14,6 +14,8 @@ int main(int argc, char const *argv[])
   }
   printf("The value of a is %d", a);
 
-  // answer is 11 , result will be i am  11
+  // answer is 11 as a = 11 is assigning the value 11 into a
+  // since (a == 1) is comparision
+  // So result will be i am  11
   return 0;
 }
